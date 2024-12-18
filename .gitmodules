@@ -1,3 +1,9 @@
 [submodule "DB4-task-new"]
 	path = DB4-task-new
 	url = https://github.com/Subikshan0612/DB4-task
+[submodule "gitdemo"]
+	path = gitdemo
+	url = https://github.com/aryapillai/gitdemo.git
+[submodule "DB4-task-new-one"]
+	path = DB4-task-new-one
+	url = https://github.com/aryapillai/gitdemo.git
